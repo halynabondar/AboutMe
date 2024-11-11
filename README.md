@@ -1,4 +1,5 @@
-Hi 👋, I'm Halyna Bondar
+Hi 👋
+I'm Halyna Bondar
 
 📝 Currently learning React
 
