@@ -11,4 +11,3 @@ Hi 👋, I'm Halyna Bondar
 [Leetcode sana-shabeel](https://leetcode.com/u/halynabondar/)
 
 Languages and Tools:
-docker express figma javascript mysql nodejs react tailwind next
