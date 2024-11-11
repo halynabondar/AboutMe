@@ -12,10 +12,11 @@ I'm Halyna Bondar
 [Leetcode sana-shabeel](https://leetcode.com/u/halynabondar/)
 
 Languages and Tools:
-
-<img src="images/css.jpeg" alt="css" width="100" height="auto">
-<img src="images/html.png" alt="html" width="100" height="auto">
-<img src="images/js.png" alt="js" width="100" height="auto">
-<img src="images/nextjs.jpeg" alt="next" width="100" height="auto">
-<img src="images/react.png" alt="react" width="100" height="auto">
-<img src="images/tailwind.png" alt="tailwind" width="100" height="auto">
+<div align="center">
+<img src="images/css.jpeg" alt="css" width="70" height="auto">
+<img src="images/html.png" alt="html" width="70" height="auto">
+<img src="images/js.png" alt="js" width="70" height="auto">
+<img src="images/nextjs.jpeg" alt="next" width="70" height="auto">
+<img src="images/react.png" alt="react" width="70" height="auto">
+<img src="images/tailwind.png" alt="tailwind" width="70" height="auto">
+</div>
