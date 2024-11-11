@@ -12,6 +12,8 @@ I'm Halyna Bondar
 [Leetcode sana-shabeel](https://leetcode.com/u/halynabondar/)
 
 Languages and Tools:
+
+<img src="images/css.jpeg" alt="css" width="200" height="auto">
 [css](images/css.jpeg)
 [html](images/html.png)
 [js](images/js.png)
