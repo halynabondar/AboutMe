@@ -13,10 +13,9 @@ I'm Halyna Bondar
 
 Languages and Tools:
 
-<img src="images/css.jpeg" alt="css" width="200" height="auto">
-[css](images/css.jpeg)
-[html](images/html.png)
-[js](images/js.png)
-[next.js](images/nextjs.jpeg)
-[react](images/react.png)
-[tailwind](images/tailwind.png)
+<img src="images/css.jpeg" alt="css" width="100" height="auto">
+<img src="images/html.png" alt="html" width="100" height="auto">
+<img src="images/js.png" alt="js" width="100" height="auto">
+<img src="images/nextjs.jpeg" alt="next" width="100" height="auto">
+<img src="images/react.png" alt="react" width="100" height="auto">
+<img src="images/tailwind.png" alt="tailwind" width="100" height="auto">
