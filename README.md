@@ -16,6 +16,6 @@ I'm Halyna Bondar
 <p align="left">
   <span>
     <h3 style="text-decoration: underline;"><isn>Languages and Tools:</isn></h3>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,expressjs,nodejs,mysql&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,expressjs,nodejs,mysql,docker&perline=4" />
   </span>
 </p>
