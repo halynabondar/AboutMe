@@ -13,7 +13,7 @@ I'm Halyna Bondar
 
 Languages and Tools:
 <div>
-<img src="images/css.jpeg" alt="css" width="auto" height="50" border="rounded">
+<img src="images/css.jpeg" alt="css" width="auto" height="50" borderRadius="10px">
 <img src="images/html.png" alt="html" width="auto" height="50">
 <img src="images/js.png" alt="js" width="auto" height="50">
 <img src="images/nextjs.jpeg" alt="next" width="auto" height="50">
