@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Halyna Bondar, <br>Frontend Developer</h1>
+<h2 align="center">Hi! I'm Halyna Bondar, <br>Frontend Developer</h2>
 
 ![](https://media.licdn.com/dms/image/C4E16AQEdOaMdDOVnlA/profile-displaybackgroundimage-shrink_350_1400/0/1656946749556?e=1678320000&v=beta&t=cL9kSLVa5h3DX-QC7LKUvqabjRG3b0Kg-DPDAPG8LLc)
 
@@ -10,9 +10,9 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/halyna-bondar-a5854b261/)
 
-- [Codewars ](https://www.codewars.com/users/HalynaBondar)
+- Codewars <a href="https://www.codewars.com/users/HalynaBondar" traget="_blank"><img align="center" src="https://www.codewars.com/users/HalynaBondar/badges/large" /></a>
 
-- [Leetcode](https://leetcode.com/u/halynabondar/)
+- Leetcode <a href="https://leetcode.com/u/halynabondar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halyna-bondar" height="30" width="40" />
 
 <p align="left">
   <span>
