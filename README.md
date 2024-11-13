@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/halyna-bondar-a5854b261/)
 
-- Codewars <a href="https://www.codewars.com/users/HalynaBondar" traget="_blank"><img align="center" src="https://www.codewars.com/users/HalynaBondar/badges/large" /></a>
+- Codewars <a href="https://www.codewars.com/users/HalynaBondar" traget="_blank"><img align="center" src="https://www.codewars.com/users/HalynaBondar/badges/medium" /></a>
 
 - Leetcode <a href="https://leetcode.com/u/halynabondar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halyna-bondar" height="30" width="40" />
 
