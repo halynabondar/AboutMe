@@ -2,6 +2,7 @@
 
 Hi 👋
 I'm Halyna Bondar
+Frontend Developer
 
 📝 Currently learning React
 
