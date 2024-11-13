@@ -1,7 +1,6 @@
 #AboutMe
 
-<h1 align="center">Hi! I'm Halyna Bondar</h1>
-<h1 align="center">Frontend Developer</h1>
+<h1 align="center">Hi! I'm Halyna Bondar <br>Frontend Developer</h1>
 
 ![](https://media.licdn.com/dms/image/C4E16AQEdOaMdDOVnlA/profile-displaybackgroundimage-shrink_350_1400/0/1656946749556?e=1678320000&v=beta&t=cL9kSLVa5h3DX-QC7LKUvqabjRG3b0Kg-DPDAPG8LLc)
 
