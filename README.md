@@ -12,6 +12,7 @@
 
 - Leetcode <a href="https://leetcode.com/u/halynabondar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="halyna-bondar" height="30" width="40" />
 
+
 <p align="left">
   <span>
     <h3 style="text-decoration: underline;"><isn>Languages and Tools:</isn></h3>
